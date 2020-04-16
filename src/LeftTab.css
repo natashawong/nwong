@@ -1,0 +1,13 @@
+.bigContainer {
+ background-color: #F8F9F3;
+ min-height: 100vh;
+}
+
+.textBlock {
+    text-align: left;
+    margin: 30px 60px;
+}
+
+#redText {
+    color: #AD2C34;
+}
