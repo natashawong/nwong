@@ -25,9 +25,9 @@ export default class Contact extends Component {
                     </div>
 
                     <div className="pics">
-                        <img id="contactPic" src={git} alt={"GitHub"} />
-                        <img id="contactPic" src={mail} alt={"Gmail"} />
-                        <img id="contactPic" src={linkedin} alt={"LinkedIn"} />
+                        <a href="https://github.com/natashawong"><img id="gitPic" src={git} alt={"GitHub"} /></a>
+                        <a href="mailto:nwong22@cmc.edu"><img id="gmailPic" src={mail} alt={"Gmail"} /></a>
+                        <a href="https://www.linkedin.com/in/natasha-wong-94066b147/"><img id="linkedinPic" src={linkedin} alt={"LinkedIn"}/></a>
                     </div>
                 </div>
             </div>

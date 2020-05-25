@@ -4,6 +4,7 @@ import './App.css';
 import About from './Pages/About';
 import Projects from './Pages/Projects';
 import Contact from './Pages/Contact';
+import Experience from './Pages/Experience';
 
 import {
   BrowserRouter as Router,
@@ -22,6 +23,10 @@ function App() {
           
           <Route exact path='/projects'>
             <Projects/>
+          </Route>
+
+          <Route exact path='/experience'>
+            <Experience/>
           </Route>
 
           <Route exact path='/contact'>

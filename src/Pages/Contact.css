@@ -1,4 +1,25 @@
 .pics {
     flex-direction: row;
     display: flex;
+    padding-top: 30px;
+    padding-left: 150px;
+}
+
+#gitPic {
+    padding-right: 100px;
+    height: 200px;
+    width: 275px;
+}
+
+#linkedinPic {
+    padding-top: 50px;
+    height: 140px;
+    width: 150px;
+}
+
+#gmailPic {
+    padding-right: 150px;
+    padding-top: 45px;
+    height: 150px;
+    width: 150px;
 }

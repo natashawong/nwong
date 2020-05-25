@@ -13,7 +13,7 @@ export default class LeftTab extends Component {
                 <ul style={{listStyleType: "none"}}>
                     <li><Link to='/' className="link" style={{borderColor: this.props.selected === "about" ? COLOURS.YELLOW : COLOURS.BEIGE}}>About Me</Link></li>
                     <li><Link to='/projects' className="link" style={{borderColor: this.props.selected === "projects" ?  COLOURS.YELLOW : COLOURS.BEIGE}}>Projects</Link></li>
-                    <li><Link to='/resume' className="link" style={{borderColor: this.props.selected === "resume" ?  COLOURS.YELLOW : COLOURS.BEIGE}}>Resume</Link></li>
+                    <li><Link to='/experience' className="link" style={{borderColor: this.props.selected === "experience" ?  COLOURS.YELLOW : COLOURS.BEIGE}}>Experience</Link></li>
                     <li><Link to='/contact' className="link" style={{borderColor: this.props.selected === "contact" ?  COLOURS.YELLOW : COLOURS.BEIGE}}>Contact</Link></li>
                 </ul>
             </div>
