@@ -89,8 +89,8 @@ export default class Experience extends Component {
                         <p>
                             <b>“Import your Car” [WIP]<br  />
                             Founder</b><br />
-                            Amidst the COVID-19 pandemic, I've chose to start my own startup over do a remote internship. I think there'd be more to gain from taking ownership over my own product
-                            building it from scratch than working on something remotely, where I could lack mentorship. Leveraging my father's 25 years in the automotive industry,
+                            Amidst the COVID-19 pandemic, I've chosen to start my own startup over doing a remote internship. I think there'd be more to gain from taking ownership over my own product
+                            and building it from scratch than working on something remotely, where I could lack mentorship. Leveraging my father's 25 years in the automotive industry,
                             I used his market knowledge to come up with a startup that lets consumers cut out numerous middlemen to import their own car.
                         </p>
 
