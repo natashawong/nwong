@@ -1,0 +1,16 @@
+.projectsContainer {
+    width: 80%;
+    float: right;
+    padding-top: 5%;
+    text-align: center;
+}
+
+#title {
+    font-size: xx-large;
+    padding-top: 0px;
+}
+
+.gridRow {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,24 @@
+.gridBox {
+    height: 200px;
+    width: 700px;
+    text-align: left;
+    margin: 50px;
+}
+
+.image {
+    width: 98%;
+    height: 99%;
+    object-fit: contain;
+    border: solid 1px;
+    border-color: #F7D600;
+}
+
+.text {
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+}
+
+#builtText {
+    border-bottom: solid 2px;
+}

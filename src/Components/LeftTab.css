@@ -1,0 +1,19 @@
+.bigContainer {
+    background-color: #F8F9F3;
+    min-height: 100vh;
+    width: 20%;
+    position: absolute;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+    padding-bottom: 3px;
+    border-bottom: solid 2px;
+}
+
+li {
+    padding-bottom: 50px;
+    font-size: large;
+}

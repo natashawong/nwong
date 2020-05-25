@@ -1,0 +1,4 @@
+.pics {
+    flex-direction: row;
+    display: flex;
+}

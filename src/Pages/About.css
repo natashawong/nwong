@@ -1,0 +1,26 @@
+#redText {
+    color: #AD2C34
+}
+
+.container {
+    width: 80%;
+    float: right;
+    text-align: left;
+    padding-top: 5%;
+}
+
+.title {
+    padding: 0px 50px;
+}
+
+.subtitle {
+    padding: 0px 50px 30px;
+}
+
+.additionalInfo {
+    padding: 0px 50px;
+}
+
+.additionalInfo p {
+    font-size: 20px;
+}
