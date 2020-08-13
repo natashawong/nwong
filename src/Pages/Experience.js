@@ -15,7 +15,7 @@ export default class Experience extends Component {
                     <div className="block" style={{paddingRight: "3%"}}>
                         <p>
                             <b>MoneyLion<br  />
-                            Software Engineer Intern</b><br />
+                            Software Engineer Intern, Mobile</b><br />
                             Coming straight out of high school and onto the mobile team meant I had to work twice as hard to pick up things on the job.
                             It was a great holistic experience learning about working on a team (and the tools that come with it), best practices in coding large projects, and fast-paced startup culture.
                         </p>
@@ -31,7 +31,7 @@ export default class Experience extends Component {
 
                         <p>
                             <b>MoneyLion<br  />
-                            Software Engineer Intern</b><br />
+                            Software Engineer Intern, Mobile</b><br />
                             Coming back for the second time was extremely rewarding as I got to see how much I had progressed in a year. I got to see my code in production,
                             was given more responsibility, and learnt a lot more about maintaining good lasting code. The codebase had changed drastically, and I got a better idea
                             of what it means to replace legacy code and continually improve on the existing codebase, especially in a startup where things move fast.
@@ -40,7 +40,8 @@ export default class Experience extends Component {
                         <div style={{padding: "4%"}}></div>
 
                         <p id="date" style={{textAlign: "right"}}>
-                            <span id="redText">Present</span><br  />
+                            <span id="redText">2020</span><br  />
+                            Summer
                         </p>
 
 
@@ -53,7 +54,7 @@ export default class Experience extends Component {
 
                     <div className="block" style={{borderRight: 0}}>
                         <p className="resume">
-                            <a href="https://drive.google.com/file/d/1BL8B9H7174U-zkfFJyMo9yp8TxfgKtYo/view?usp=sharing">Click here for the formal resume!</a>
+                            <a href="https://drive.google.com/file/d/1geJY6qi0J83dWQPeZE444KAYsGvwpMYG/view?usp=sharing">Click here for the formal resume!</a>
                         </p>
 
                         <div style={{padding: "2%"}}></div>
@@ -87,8 +88,8 @@ export default class Experience extends Component {
                         <div style={{paddingTop: "4%"}}></div>
 
                         <p>
-                            <b>“Import your Car” [WIP]<br  />
-                            Founder</b><br />
+                            <b>Naga Motors<br  />
+                            Co-Founder</b><br />
                             Amidst the COVID-19 pandemic, I've chosen to start my own startup over doing a remote internship. I think there'd be more to gain from taking ownership over my own product
                             and building it from scratch than working on something remotely, where I could lack mentorship. Leveraging my father's 25 years in the automotive industry,
                             I used his market knowledge to come up with a startup that lets consumers cut out numerous middlemen to import their own car.

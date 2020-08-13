@@ -15,15 +15,16 @@ export default class About extends Component {
                 </div>
                 <div className="subtitle">
                     <p style={{fontSize: 20, marginTop: 0}}>
-                        I'm passionate about everything <span id="redText">startup</span> (especially in Asia!), <span id="redText">fintech</span>, and <span id="redText">social entrepreneurship</span>.
+                        I'm passionate about everything <span id="redText">startup</span>, <span id="redText">fintech</span>, and <span id="redText">social entrepreneurship</span>.
                     </p>
                 </div>
 
                 <div className="additionalInfo">
                     <p><span style={{fontSize: 20, textDecoration: "underline"}}><span id="redText">Technologies</span> I’m most familiar with are:</span><br  />
                     MOBILE 📱: React Native, React-Redux, Redux-Saga <br  />
-                    WEB 🖥: React, HTML, CSS, NodeJS <br  />
-                    GENERAL 💾: JavaScript, TypeScript, Java, Python, Racket (functional programming language)
+                    WEB 🖥: React, HTML, CSS, NodeJS, Express, Mongoose <br  />
+                    DATABASE 💽: MongoDB <br  />
+                    GENERAL 💾: JavaScript, TypeScript, Java, Python
                     <br  />
                     <br  />
                     <span p style={{fontSize: 20, textDecoration: "underline"}}>Other <span id="redText">tools</span> I’ve used:</span><br  />
